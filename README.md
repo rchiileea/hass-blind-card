@@ -31,7 +31,7 @@ _Remark : you can also just give the entity ID (without to specify `entity:`) if
 ### Sample
 
 ```yaml
-type: 'custom:blind-card'
+type: 'custom:ikea-blind-card'
 title: My blinds
 entities:
   - entity: cover.left_living_blind
@@ -41,7 +41,6 @@ entities:
     blind_color: '#FFD580'
   - cover.bedroom_blind
 ```
-![Colored Blind](https://raw.githubusercontent.com/tungmeister/hass-blind-card/master/images/colored.png)
 
 ## Install
 
