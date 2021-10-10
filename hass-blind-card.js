@@ -1,4 +1,4 @@
-class ShutterCard extends HTMLElement {
+class class IkeaBlindCard extends HTMLElement {
   set hass(hass) {
     const _this = this;
     const entities = this.config.entities;
